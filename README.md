@@ -35,5 +35,5 @@ Stay updated on our [website](https://sites.google.com/view/kcautechforum/home) 
 
 This project is licensed under the [MIT License](LICENSE).
 
-Happy coding! 🎉
+Happy coding!
 
