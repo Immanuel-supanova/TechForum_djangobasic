@@ -32,7 +32,7 @@ We expect cooperation from all members to ensure a respectful and positive exper
 
 ## Reporting and Enforcement
 
-8. Reporting Incidents: If you witness or experience behavior that violates this Code of Conduct, report it promptly to the community organizers through [karanuisaackuria@gmail.com].
+8. Reporting Incidents: If you witness or experience behavior that violates this Code of Conduct, report it promptly to the community organizers through [ADMIN](karanuisaackuria@gmail.com).
 
 9. Enforcement: Violations of this Code of Conduct may result in temporary or permanent expulsion from the community at the discretion of the organizers.
 
