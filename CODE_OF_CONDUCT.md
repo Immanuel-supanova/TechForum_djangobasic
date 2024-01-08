@@ -30,7 +30,7 @@ TechForum is committed to providing a welcoming and inclusive environment for al
 
 ## Reporting and Enforcement
 
-8. **Reporting Incidents:** If you witness or experience behavior that violates this Code of Conduct, report it promptly to the community organizers through [karanuisaackuriaa@gmail.com].
+8. **Reporting Incidents:** If you witness or experience behavior that violates this Code of Conduct, report it promptly to the community organizers through [karanuisaackuria@gmail.com].
 
 9. **Enforcement:** Violations of this Code of Conduct may result in temporary or permanent expulsion from the community at the discretion of the organizers.
 
