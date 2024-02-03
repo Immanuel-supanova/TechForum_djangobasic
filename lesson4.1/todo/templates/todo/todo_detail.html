@@ -1,0 +1,10 @@
+{% extends "todo/base.html"%}
+
+{% block content %}
+<div class="container">
+    <p>Title: {{ object.title }}</p>
+    <p>Description: {{ object.description }}</p>
+    <p>Deadline: {{ object.deadline }}</p>
+    <p>User: {{ object.user }}</p>
+</div>
+{% endblock %}

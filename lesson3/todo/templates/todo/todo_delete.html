@@ -1,0 +1,18 @@
+{% extends "todo/base.html"%}
+
+{% block content %}
+<div class="container">
+    <div class="card m-2">
+        <div class="card-header text-center">
+            <h3>Todo</h3>
+        </div>
+        <div class="card-body text-center">
+            <form method="post">
+                {% csrf_token %} 
+                <h1>Are you sure!</h1>
+                <button type="submit" class="btn btn-danger">Delete</button>
+        </form>
+        </div>
+    </div>
+</div>
+{% endblock %}
